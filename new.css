@@ -1,0 +1,14 @@
+.a {
+    background-color: aqua;
+    border: 5px solid red;
+}
+
+.b {
+    background-color: rgb(0, 255, 17);
+    border: 5px solid rgb(102, 0, 255);
+}
+
+.c {
+    background-color: aqua;
+    border: 5px solid rgb(0, 255, 60);
+}
